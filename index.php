@@ -34,6 +34,9 @@ require_once("Ejercicio05/Ejercicio05.php");
 
 
 <body>
+<nav>
+
+</nav>
 <h1>Martin Gonzalo Cabral</h1>
 
 <h2>Ejercicio 01</h2>

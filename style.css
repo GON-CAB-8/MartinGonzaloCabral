@@ -3,10 +3,17 @@ body {
     margin: 25px;
     background: #282828;
     color: #fbf1c7;
+    text-align: center;
+}
+
+div {
+    border-style: solid;
+    border-color: #b8bb26;
 }
 
 h1 {
     color: #b8bb26;
+    text-align: center;
 }
 
 h2 {
@@ -17,12 +24,18 @@ h3 {
     color: #fe8019;
 }
 
+
 .input {
     font-family: "Courier New";
+    font-weight: bold;
     color: #d5c4a1;
 }
 
 .resultado {
+    display: inline-block;
+    border-style: inset;
+    padding: 5px;
+    border-color: #689d6a;
     font-family: "Courier New";
     color: #a89984;
 }
