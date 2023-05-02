@@ -1,5 +1,5 @@
 body {
-    font-family: Calibri;
+    font-family: Calibri, serif;
     margin: 25px;
     background: #282828;
     color: #fbf1c7;
@@ -41,8 +41,6 @@ h3 {
 }
 
 button {
-
-
     display: inline-block;
     outline: 0;
     cursor: pointer;
