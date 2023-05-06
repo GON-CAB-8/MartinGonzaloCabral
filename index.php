@@ -30,7 +30,7 @@ require_once("Ejercicio02/Ejercicio02.php");
 require_once("Ejercicio03/Ejercicio03.php");
 require_once("Ejercicio04/Ejercicio04.php");
 require_once("Ejercicio05/Ejercicio05.php");
-require_once("Ejercicio05/Ejercicio06.php");
+require_once("Ejercicio06/Saludar.php");
 ?>
 
 
